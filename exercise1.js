@@ -1,4 +1,4 @@
-let value = +prompt("Введите число")
+let value = +prompt("Введите число");
 
 if (typeof(value) === 'number'){
   if (isNaN(value)){
@@ -10,4 +10,4 @@ if (typeof(value) === 'number'){
   else{
     console.log('Число нечётное')
   }
-}
+};

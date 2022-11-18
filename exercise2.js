@@ -1,4 +1,4 @@
-let x = null
+let x = null;
 if (typeof(x) === "number"){
   console.log('x — число')
 }
